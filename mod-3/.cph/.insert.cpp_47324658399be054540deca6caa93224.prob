@@ -1,0 +1,1 @@
+{"name":"Local: insert","url":"d:\\DS\\mod-3\\insert.cpp","tests":[{"id":1718420808718,"input":"5\n12 54 87 98 54\n3\n10 20 30\n3","output":"12 54 87 10 20 30 98 54 "},{"id":1718422265389,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DS\\mod-3\\insert.cpp","group":"local","local":true}

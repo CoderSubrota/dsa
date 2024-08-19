@@ -1,0 +1,1 @@
+{"name":"Local: searchQuery","url":"d:\\DS\\mod-3\\searchQuery.cpp","tests":[{"id":1718336229949,"input":"4\n20 56 87 45\n4\n20\n25\n50\n45","output":"YES\nNO\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DS\\mod-3\\searchQuery.cpp","group":"local","local":true}

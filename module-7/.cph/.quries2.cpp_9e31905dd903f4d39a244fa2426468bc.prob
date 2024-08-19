@@ -1,0 +1,1 @@
+{"name":"Local: quries2","url":"d:\\DS\\module-7\\quries2.cpp","tests":[{"id":1719643425656,"input":"11\n0 10\n2 5\n1 20\n1 30\n0 40\n2 0\n0 50\n2 2\n1 60\n2 3\n2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DS\\module-7\\quries2.cpp","group":"local","local":true}

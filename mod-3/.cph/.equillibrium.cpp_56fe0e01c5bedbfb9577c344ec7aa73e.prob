@@ -1,0 +1,1 @@
+{"name":"Local: equillibrium","url":"d:\\DS\\mod-3\\equillibrium.cpp","tests":[{"id":1718322047532,"input":"5\n21 54 87 98 54","output":"Mid index not match"},{"id":1718323099193,"input":"7\n-7 1 5 2 -4 3 0","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DS\\mod-3\\equillibrium.cpp","group":"local","local":true}

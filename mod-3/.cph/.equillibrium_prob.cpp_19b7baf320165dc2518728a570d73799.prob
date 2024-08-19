@@ -1,0 +1,1 @@
+{"name":"Local: equillibrium_prob","url":"d:\\DS\\mod-3\\equillibrium_prob.cpp","tests":[{"id":1718332751126,"input":"7\n-7 1 5 2 -4 3 0","output":"3"},{"id":1718332818565,"input":"4\n4 1 2 1","output":"Index not found"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DS\\mod-3\\equillibrium_prob.cpp","group":"local","local":true}

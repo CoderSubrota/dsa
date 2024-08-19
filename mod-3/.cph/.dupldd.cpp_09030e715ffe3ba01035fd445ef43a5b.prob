@@ -1,0 +1,1 @@
+{"name":"Local: dupldd","url":"d:\\DS\\mod-3\\dupldd.cpp","tests":[{"id":1718427989123,"input":"5\n10 20 10 20 30","output":"YES"},{"id":1718428201001,"input":"5\n1 2 3 4 5","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DS\\mod-3\\dupldd.cpp","group":"local","local":true}

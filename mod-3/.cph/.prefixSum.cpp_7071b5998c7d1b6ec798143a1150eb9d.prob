@@ -1,0 +1,1 @@
+{"name":"Local: prefixSum","url":"d:\\DS\\mod-3\\prefixSum.cpp","tests":[{"id":1718311867461,"input":"5\n20 25 84 87 95","output":"20 45 129 216 311 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DS\\mod-3\\prefixSum.cpp","group":"local","local":true}

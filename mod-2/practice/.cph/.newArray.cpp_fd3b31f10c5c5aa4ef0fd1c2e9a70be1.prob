@@ -1,0 +1,1 @@
+{"name":"Local: newArray","url":"d:\\DS\\mod-2\\practice\\newArray.cpp","tests":[{"id":1718137751615,"input":"2\n1 2 \n3 4","output":"4 3 2 1 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DS\\mod-2\\practice\\newArray.cpp","group":"local","local":true}

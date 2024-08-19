@@ -1,0 +1,1 @@
+{"name":"Local: prac","url":"d:\\DS\\mod-3\\prac.cpp","tests":[{"id":1718331426780,"input":"5\n10 25 46 14 54","output":"Index not found"},{"id":1718332449509,"input":"5\n2 2 3 3 1","output":"2"},{"id":1718332516909,"input":"4\n4 3 3 1","output":"1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DS\\mod-3\\prac.cpp","group":"local","local":true}

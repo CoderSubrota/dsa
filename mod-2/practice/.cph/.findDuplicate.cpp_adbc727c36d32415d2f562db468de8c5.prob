@@ -1,0 +1,1 @@
+{"name":"Local: findDuplicate","url":"d:\\DS\\mod-2\\practice\\findDuplicate.cpp","tests":[{"id":1718250538742,"input":"6\n1 5 6 7 8 4 4\n4","output":"true"},{"id":1718252559004,"input":"6\n1 5 6 7 8 4\n4","output":"false"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DS\\mod-2\\practice\\findDuplicate.cpp","group":"local","local":true}

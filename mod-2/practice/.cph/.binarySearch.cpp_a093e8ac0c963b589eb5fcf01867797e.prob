@@ -1,0 +1,1 @@
+{"name":"Local: binarySearch","url":"d:\\DS\\mod-2\\practice\\binarySearch.cpp","tests":[{"id":1718166939276,"input":"5 3\n1 5 4 3 2\n5\n3\n6","output":"found\nfound\nnot found"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DS\\mod-2\\practice\\binarySearch.cpp","group":"local","local":true}
