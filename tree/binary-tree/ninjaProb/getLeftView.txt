@@ -1,0 +1,28 @@
+vector<int> getLeftView(TreeNode<int> *root) {
+    vector<int> result;
+    if (!root) {
+        return result;
+    }
+
+    queue<TreeNode<int>*> q;
+    q.push(root);
+
+    while (!q.empty()) {
+        int size = q.size();
+        result.push_back(q.front()->val); // Add the leftmost node to the result
+
+        for (int i = 0; i < size; i++) {
+            TreeNode<int>* node = q.front();
+            q.pop();
+
+            if (node->left) {
+                q.push(node->left);
+            }
+            if (node->right) {
+                q.push(node->right);
+            }
+        }
+    }
+
+    return result;
+}
