@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int getMinimumDifference(TreeNode* root) {
+        inorder(root);
+        return minDiff;
+    }
+    
+private:
+    int minDiff = INT_MAX;
+    int prev = -1;
+    
+    void inorder(TreeNode* node) {
+        if (!node) return;
+        inorder(node->left);
+        if (prev != -1) {
+            minDiff = min(minDiff, node->val - prev);
+        }
+        prev = node->val;
+        inorder(node->right);
+    }
+};
