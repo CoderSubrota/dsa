@@ -78,7 +78,7 @@ void insert_at_any_position(Node *&head, int pos, int value)
 // insert at head
 void insert_at_head(Node *&head, int value)
 {
-    
+
     Node *newNode = new Node(value);
     Node *temp = head;
     newNode->next = head;
@@ -119,19 +119,19 @@ void delete_from_position(Node *&head, int pos)
     delete deleteNode;
     cout << endl
          << endl
-         << "Element deleted from " << pos <<" number position" << endl
+         << "Element deleted from " << pos << " number position" << endl
          << endl;
 }
 // delete from head
 void delete_head(Node *&head)
 {
     if (head == NULL)
-        {
-            cout << endl
-                 << "Head is not available"<< endl
-                 << endl;
-            return;
-        }
+    {
+        cout << endl
+             << "Head is not available" << endl
+             << endl;
+        return;
+    }
 
     Node *deleteHead = head;
     head = head->next;
@@ -157,7 +157,7 @@ int main()
         cin >> opt;
         if (opt > 7 || opt < 1)
         {
-            cout << "Option " << opt <<" is not available" << endl
+            cout << "Option " << opt << " is not available" << endl
                  << endl;
         }
         if (opt == 1)
